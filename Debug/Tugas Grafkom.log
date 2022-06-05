@@ -1,0 +1,8 @@
+﻿  garisdiagonal.cpp
+F:\Documents\Semester 4\Grafik Komp. & Pengolahan Citra\Tugas\Tugas Grafkom\Tugas Grafkom\garisdiagonal.cpp(18,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Documents\Semester 4\Grafik Komp. & Pengolahan Citra\Tugas\Tugas Grafkom\Tugas Grafkom\garisdiagonal.cpp(18,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Documents\Semester 4\Grafik Komp. & Pengolahan Citra\Tugas\Tugas Grafkom\Tugas Grafkom\garisdiagonal.cpp(19,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Documents\Semester 4\Grafik Komp. & Pengolahan Citra\Tugas\Tugas Grafkom\Tugas Grafkom\garisdiagonal.cpp(19,15): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  main.cpp
+  Generating Code...
+  Tugas Grafkom.vcxproj -> F:\Documents\Semester 4\Grafik Komp. & Pengolahan Citra\Tugas\Tugas Grafkom\Debug\Tugas Grafkom.exe
